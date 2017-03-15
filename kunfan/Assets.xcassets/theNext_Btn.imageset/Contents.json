@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "Rectangle 70 Copy 2 + Stroke 402 Copy Copy Copy + Stroke 240 + Stroke 241 Copy Copy.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Rectangle 70 Copy 2 + Stroke 402 Copy Copy Copy + Stroke 240 + Stroke 241 Copy Copy@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Rectangle 70 Copy 2 + Stroke 402 Copy Copy Copy + Stroke 240 + Stroke 241 Copy Copy@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

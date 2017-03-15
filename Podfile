@@ -1,0 +1,27 @@
+platform :ios, '8.0'
+#use_frameworks!个别需要用到它，比如reactiveCocoa
+
+target 'kunfan' do
+    pod 'AFNetworking', '2.6.3'
+    pod 'AFNetworkActivityLogger', '2.0.4'
+    #pod 'AMapSearch', '4.3.0'
+    #pod 'AMapLocation', '2.1.1'
+    #pod 'Bolts', '1.2.0'
+    #pod 'CSStickyHeaderFlowLayout', '0.2.8'
+    #pod 'DateTools', '1.7.0'
+    #pod 'DQAlertView', '1.2.1'
+    pod 'SDWebImage', '3.8.1'
+    #pod 'SDWebImage/WebP'
+    #pod 'UICountingLabel', '1.2.0'
+    #pod 'UIImage-ResizeMagick', '0.0.1'
+    #pod 'Zhugeio', '2.0.6'
+    #pod 'MagicWindowSDK', '3.90.0'
+    #pod 'Bugly', '2.4.0'
+    pod 'Masonry', '1.0.1'
+    pod 'JTSImageViewController', '1.5.1'
+    pod 'MJExtension', '3.0.13'
+    #pod 'Qiniu', '7.0.11.1'
+    #pod 'AVOSCloud', '3.6.0'
+    pod 'DZNEmptyDataSet', '1.8.1'
+    pod 'YYWebImage'
+end
